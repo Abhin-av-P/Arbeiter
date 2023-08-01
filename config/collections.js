@@ -1,0 +1,10 @@
+module.exports={
+    USER_COLLECTION:'user',
+    APPROVED_WORKER_COLLECTION:'approvedWorkers',
+    WORKER_CONTACT_COLLECTION:'contactworker',
+    WORKER_DETAILS_COLLECTION:'worker',
+    CONFIRMED_BOOKING_COLLECTION:'bookings',
+    USER_REVIEW:'userReview',
+    COMPLETED_WORK_COLLECTION:'completedWorks',
+    COMPLAINT_COLLECTION:'complaints'
+}
